@@ -28,11 +28,11 @@ This is a drawing application based on Unity, using the Aruco Augmented Reality 
  
  # Controls
 
-- Left clic to draw
+- Left click to draw
 
 - Roght click to cycle through the selected item
 
-- Scroll to go updown on the menu
+- Scroll to go up and down on the menu
 
 - [P] to replay the recent path
  
